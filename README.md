@@ -1,8 +1,8 @@
 # Mantenimiento-full
 Requisitos:
--Larabel: 10
--Php: 8.1>
--Npm: 16.20.0
+- Larabel: 10
+- Php: 8.1>
+- Npm: 16.20.0
 
 Frontend:
 - yarn install
